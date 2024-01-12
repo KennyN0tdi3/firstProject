@@ -14,7 +14,7 @@ const buttonsObject = {
 }
 
 const viewObject = {
-    card: document.querySelector('.card'), // node
+    card: document.querySelector('.card'), // nodes
     cardList: document.querySelector('.cardList') // node
 }
 
